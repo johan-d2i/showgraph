@@ -40,7 +40,7 @@
       "labelSize": "fixed"
     },
     "graphProperties": {
-      "maxEdgeSize": 10,
+      "maxEdgeSize": 20,
       "minEdgeSize": 2,
       "minNodeSize": 4,
       "maxNodeSize": 20
